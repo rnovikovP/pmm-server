@@ -1,4 +1,6 @@
 # Percona Monitoring and Management (PMM) Server
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FrnovikovP%2Fpmm-server.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FrnovikovP%2Fpmm-server?ref=badge_shield)
+
 
 See the [PMM docs](https://www.percona.com/doc/percona-monitoring-and-management/index.html) for more information.
 
@@ -22,3 +24,7 @@ As a general rule of thumb, please try to create bug reports that are:
 - *Specific.* Include as much detail as possible: which version, what environment, etc.
 - *Unique.* Do not duplicate existing tickets.
 - *Scoped to a Single Bug.* One bug per report.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FrnovikovP%2Fpmm-server.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FrnovikovP%2Fpmm-server?ref=badge_large)
